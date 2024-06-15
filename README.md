@@ -28,7 +28,7 @@ The project is implemented in a Google Colab notebook for easy access and collab
 
 ## Getting Started
 To run this project:
-1. Download the dataset file "online_shopping_dataset.csv" from the GitHub repository.
+1. Download the dataset file "churn_modeling.csv" from the GitHub repository.
 2. Open the Google Colab notebook provided in the repository.
 3. Follow the instructions in the notebook to execute the code cells sequentially.
 
